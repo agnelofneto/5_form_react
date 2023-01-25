@@ -10,13 +10,13 @@ Let's start a little experiment using forms in React.
 - Add event handlers to input fields to update state when field values change;
 - Sending the Form;
 - Reset Forms;
--Only a basic CSS was used for demonstration.
+- Only a basic CSS was used for demonstration.
 
   
 <br />
 
 <h1 align="center">
-<img alt="Video form " title="gif" src="./src/img/videform.gif" />
+<img alt="Video form " title="gif" src="./src/img/formvideo.gif" />
 </h1>
 
 
@@ -29,4 +29,5 @@ Application developed using the following tools:
 - [HTML5](https://www.w3schools.com/html/default.asp)
 - [CSS3](https://www.w3schools.com/css/default.asp)
 - [Boostrap](https://getbootstrap.com/)
+- [React](https://reactjs.org/)
 
