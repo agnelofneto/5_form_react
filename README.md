@@ -4,6 +4,9 @@ To create a React login, we need to create a form where users can enter their na
 
 Let's start a little experiment using forms in React.
 
+
+#### What was developed:
+
 - Create a new component called "Form" using the "create-react-app" function;
 - In the "MyForm" component, add a basic HTML form with two input fields for "name", "email", "Bio and "System role" and a "submit" button;
 - Add state to component to store input field values. This can be done using the "useState" hook;
